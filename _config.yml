@@ -1,0 +1,11 @@
+title: Pwsec Team Blogs
+description: We are a CTF team named "PwsecTeam", We play CTF's and on our way to share our knowledge via this blog.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
+
+github:
+      home: /index.html
+      team: /team.html
+      about: /about.html
+      project_tagline: We are a CTF team named "PwsecTeam", We play CTF's and on our way to share our knowledge via this blog
